@@ -1,0 +1,54 @@
+body{
+    background: black;
+}
+
+
+
+h1{
+    color: aqua;
+    background: yellow;
+    font-family: monospace;
+    text-align: center;
+    border:2px solid white;
+    border-radius: 100px;
+}
+h2{
+    color: chartreuse;
+}
+h3{
+    color: pink;
+}
+p{
+    color: yellowgreen;
+    font-style: oblique;
+}
+li{
+    color: violet;
+}
+ui{
+    color:turquoise
+}
+ul li{
+    color: blue;
+}
+
+ol li{
+    color: crimson;
+}
+img{
+    width:100px;
+    height: 100px;
+    border-radius:  50%;
+}
+li{
+    list-style-type:square;
+}
+a{
+    text-decoration: none;
+    color: yellowgreen;
+
+}
+
+a:hover{
+    font-size: larger;
+}
